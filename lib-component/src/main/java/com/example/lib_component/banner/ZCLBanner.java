@@ -1,4 +1,4 @@
-package com.example.zengruofan.zcommonlib.banner;
+package com.example.lib_component.banner;
 
 import android.app.Activity;
 import android.content.Context;
@@ -25,9 +25,9 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.example.zengruofan.zcommonlib.R;
-import com.example.zengruofan.zcommonlib.banner.transformer.TransitionEffect;
-import com.example.zengruofan.zcommonlib.banner.transformer.ZCLPageTransformer;
+import com.example.lib_component.R;
+import com.example.lib_component.banner.transformer.TransitionEffect;
+import com.example.lib_component.banner.transformer.ZCLPageTransformer;
 
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;

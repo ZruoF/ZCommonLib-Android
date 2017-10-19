@@ -1,9 +1,9 @@
 package com.example.zengruofan.zcommonlib.banner;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.os.Bundle;
 
+import com.example.lib_component.banner.ZCLBanner;
 import com.example.zengruofan.zcommonlib.R;
 
 /**
@@ -28,8 +28,8 @@ public class BannerSelectedActivity extends Activity {
 
     private void initView() {
         setContentView(R.layout.activity_guide);
-        mBackgroundBanner = (ZCLBanner)findViewById(R.id.banner_guide_background);
-        mForegroundBanner = (ZCLBanner)findViewById(R.id.banner_guide_foreground);
+        mBackgroundBanner = (ZCLBanner) findViewById(R.id.banner_guide_background);
+        mForegroundBanner = (ZCLBanner) findViewById(R.id.banner_guide_foreground);
     }
 
     private void setListener() {

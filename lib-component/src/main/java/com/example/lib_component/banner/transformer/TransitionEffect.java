@@ -1,4 +1,4 @@
-package com.example.zengruofan.zcommonlib.banner.transformer;
+package com.example.lib_component.banner.transformer;
 
 /**
  * Created by zengruofan on 17/10/17.

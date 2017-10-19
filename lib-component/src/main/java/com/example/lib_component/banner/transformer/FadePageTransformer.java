@@ -1,11 +1,11 @@
-package com.example.zengruofan.zcommonlib.banner.transformer;
+package com.example.lib_component.banner.transformer;
 
 import android.support.v4.view.ViewCompat;
 import android.view.View;
 
 /**
  * Created by zengruofan on 17/10/18.
- * 渐入渐出
+ * 渐入渐出，左右滑动
  */
 
 public class FadePageTransformer extends ZCLPageTransformer {

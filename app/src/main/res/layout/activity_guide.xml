@@ -5,10 +5,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <com.example.zengruofan.zcommonlib.banner.ZCLGuideLinkageLayout
+    <com.example.lib_component.banner.ZCLGuideLinkageLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-        <com.example.zengruofan.zcommonlib.banner.ZCLBanner
+        <com.example.lib_component.banner.ZCLBanner
             android:id="@+id/banner_guide_background"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -18,7 +18,7 @@
             app:banner_pointDrawable="@drawable/zcl_banner_selector_point_hollow"
             app:banner_pointTopBottomMargin="15dp"
             app:banner_transitionEffect="fade"/>
-        <com.example.zengruofan.zcommonlib.banner.ZCLBanner
+        <com.example.lib_component.banner.ZCLBanner
             android:id="@+id/banner_guide_foreground"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -28,7 +28,7 @@
             app:banner_pointDrawable="@drawable/zcl_banner_selector_point_hollow"
             app:banner_pointTopBottomMargin="15dp"
             app:banner_transitionEffect="alpha"/>
-    </com.example.zengruofan.zcommonlib.banner.ZCLGuideLinkageLayout>
+    </com.example.lib_component.banner.ZCLGuideLinkageLayout>
     <TextView
         android:id="@+id/tv_guide_skip"
         android:layout_width="wrap_content"

@@ -1,4 +1,4 @@
-package com.example.zengruofan.zcommonlib.banner;
+package com.example.lib_component.banner;
 
 import android.content.Context;
 import android.util.AttributeSet;
